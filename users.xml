@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<Users>  
+    <User id="101">
+        <name>測試name1</name>
+        <tel>
+        	<mobile>1234567</mobile>
+        	<home>02-12345678</home>
+        </tel>  
+    </User>  
+    <User id="102">
+        <name>測試name2</name>
+        <tel>
+        	<mobile>0988222222</mobile>
+        	<home>02999888</home>
+        </tel> 
+    </User>
+    <User id="103">
+        <name>測試name3</name>
+        <tel>
+            <mobile>098823322222</mobile>
+            <home>02931399888</home>
+        </tel>
+    </User>
+</Users>
